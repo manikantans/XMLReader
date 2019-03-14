@@ -1,0 +1,9 @@
+c:\users\manikantan.s\documents\visual studio 2010\Projects\xmlreader\xmlreader\bin\Debug\xmlreader.exe
+c:\users\manikantan.s\documents\visual studio 2010\Projects\xmlreader\xmlreader\bin\Debug\xmlreader.pdb
+c:\users\manikantan.s\documents\visual studio 2010\Projects\xmlreader\xmlreader\obj\x86\Debug\xmlreader.Form1.resources
+c:\users\manikantan.s\documents\visual studio 2010\Projects\xmlreader\xmlreader\obj\x86\Debug\xmlreader.Properties.Resources.resources
+c:\users\manikantan.s\documents\visual studio 2010\Projects\xmlreader\xmlreader\obj\x86\Debug\xmlreader.csproj.GenerateResource.Cache
+c:\users\manikantan.s\documents\visual studio 2010\Projects\xmlreader\xmlreader\obj\x86\Debug\xmlreader.exe
+c:\users\manikantan.s\documents\visual studio 2010\Projects\xmlreader\xmlreader\obj\x86\Debug\xmlreader.pdb
+C:\Users\manikantan.s\Documents\Visual Studio 2010\Projects\xmlreader\xmlreader\obj\x86\Debug\xmlreader.csprojResolveAssemblyReference.cache
+C:\Users\manikantan.s\Documents\Visual Studio 2010\Projects\xmlreader\xmlreader\obj\x86\Debug\xmlreader.Mozhi.resources
